@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference
+        android:title="@string/display_notes"
+        android:summary="@string/notes_details"
+        android:key="showNotes">
+        <intent
+            android:action="android.intent.action.MAIN"
+            android:targetPackage="com.example.goran.playbass"
+            android:targetClass="com.example.goran.playbass.NotesActivity">
+        </intent>
+    </Preference>
+</PreferenceScreen>

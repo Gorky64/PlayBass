@@ -1,0 +1,26 @@
+<resources>
+    //Slide 1
+    <string name="welcome">Thank you for using Play Bass.</string>
+    <string name="headphones">Since bass guitar produces low frequency sounds, it is recommended that you use headphones for a better experience.</string>
+    //Slide 2
+    <string name="tut1">Press and hold a letter to play an open string.</string>
+    //Slide 3
+    <string name="tut2">Press and hold a string to play a note.</string>
+    //Slide 4
+    <string name="tut3">Check the options to view a diagram displaying all the notes on the fretboard.</string>
+    <string name="app_name">Play Bass</string>
+    <string name="double_back">Press the BACK button again to exit.</string>
+    //TEXT VIEW STRINGS
+    <string name="E">E</string>
+    <string name="A">A</string>
+    <string name="D">D</string>
+    <string name="G">G</string>
+    //IMAGE VIEW STRING
+    <string name="image">placeholder</string>
+    //ACTION BAR STRINGS
+    <string name="settings">Settings</string>
+    <string name="display_notes">Display Note Layout</string>
+    <string name="notes_details">Shows a diagram with all the notes on the fretboard.</string>
+
+
+</resources>
