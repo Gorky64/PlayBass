@@ -2,14 +2,15 @@
 
 ![alt text](http://i.imgur.com/3W6CZvA.jpg "Play Bass")
 
-This is my first Android application which was a part of Android programming course that i took.
+This is my first Android application.
 
 #App Intro
 This application uses App Intro library which you can check out [here.](https://github.com/apl-devs/AppIntro)
 
 #About the application
-* The app uses MediaPlayer to reproduce notes on a bass guitar. (SoundPool can be used instead).
+* The app uses MediaPlayer to reproduce notes on a bass guitar. 
 * The goal was to play a sound while the button is pressed and then stop the sound on button release.
+
 
 #The code
 Lets start with a basic On Touch Listener used for the buttons.
