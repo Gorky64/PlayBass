@@ -4,15 +4,15 @@
 
 This is my first Android application.
 
-#App Intro
+# App Intro
 This application uses App Intro library which you can check out [here.](https://github.com/apl-devs/AppIntro)
 
-#About the application
+# About the application
 * The app uses MediaPlayer to reproduce notes on a bass guitar. 
 * The goal was to play a sound while the button is pressed and then stop the sound on button release.
 
 
-#The code
+# The code
 Lets start with a basic On Touch Listener used for the buttons.
 
 ```java
